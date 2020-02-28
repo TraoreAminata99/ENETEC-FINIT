@@ -1,0 +1,44 @@
+/*Debut css page acceuil*/
+
+div #principale .rubrique{
+	width: 32%;
+	height: 285px;
+	float:left;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 15px;
+	margin-left: 13px;
+	background-image: url(../images/bg_rubrique2.jpg);
+	background-size: cover;
+}
+
+div #principale .rubrique a{
+	text-decoration: none;
+	color: white;
+}
+
+div #principale .rubrique a:hover{
+	color: blue;
+}
+
+div #principale .rubrique h2{
+	margin-top: 190px;
+	background-color: #00ffdb91;
+	border-radius: 90px;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+div #principale{
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+/*Fin css page acceuil*/
+
+/*Debut css page 1 rubrique 1*/
+.block-jeux{
+	margin-top: 25px;
+}
+/*Fin css page 1 rubrique 1*/
