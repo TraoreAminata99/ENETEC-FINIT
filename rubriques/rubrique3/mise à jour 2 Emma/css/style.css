@@ -1,0 +1,57 @@
+div
+			{
+	position: relative;
+	width: 400%;
+	height: 100%;
+
+			}
+h1
+{   text-align: center;
+	color: #fff;
+
+}
+input
+{   color:  #fff;
+    float: left;
+	font-size: 25px;
+	margin: 30px;
+	border-color: red;
+}
+.bloc
+{
+	width: 40%;
+	height: 500px;
+	float: left;
+	margin-top: 100px;
+
+}
+
+.bloc2
+{
+	width: 50%;
+	height: 200px;
+	float: right;
+	margin-top: 150px;
+	margin-right: 70px;
+}
+
+
+
+
+
+
+
+/*
+a
+{
+	
+	color: #fff;
+	font-family: sans-serif;
+	margin-top: 100px;
+	text-decoration: none;
+	padding: 35px 0px 0px 47px;
+	font-size: 30px;
+
+}
+
+*/

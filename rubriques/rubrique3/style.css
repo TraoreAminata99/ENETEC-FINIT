@@ -1,0 +1,122 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.image-arriereplan{
+    position: relative;
+    width: 90%;
+    height: 550px;
+    margin-left: 70px;
+    margin-top: 90px;
+    background-image: url("images/bg_enetec.JPG");
+   
+}
+    
+.bloc_botton{
+    position: absolute;
+    right: 60.5%;
+    top: 130px;
+    color: white;
+}
+
+
+/*bloc input1*/
+.input{
+   position: absolute;
+    height: 60px;
+    width: 300px;
+    background-color: red;
+    font-size: 20px;
+    color: white;
+    border-color: red;
+    right: -5px;
+    margin: 60px;
+}
+.rond{
+   position: absolute;
+    border: 2px solid yellow;
+    border-radius: 50px;
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    top: 1.2px;
+    left: 1.6px;
+}
+input{
+    
+     height: 60px;
+     width: 330px;
+     background-color: red;
+     font-size: 20px;
+     color: white;
+     border-color: red;
+ }
+
+
+ /*bloc input2*/
+.input1{
+    position: absolute;
+     height: 60px;
+     width: 300px;
+     background-color: red;
+     font-size: 20px;
+     color: white;
+     border-color: red;
+     left: 150px;
+     margin: 35px;
+     top: 290px;
+ }
+ .rond1{
+    position: absolute;
+     border: 2px solid yellow;
+     border-radius: 50px;
+     width: 50px;
+     height: 50px;
+     background-color: yellow;
+     top: 1.2px;
+     left: 1.4px;
+ }
+ input{
+     
+      height: 60px;
+      width: 330px;
+      background-color: red;
+      font-size: 20px;
+      color: white;
+      border-color: red;
+  }
+
+
+  /*bloc input3*/
+.input2{
+    position: absolute;
+     height: 60px;
+     width: 300px;
+     background-color: red;
+     font-size: 20px;
+     color: white;
+     border-color: red;
+     left: 160px;
+     margin: 28px;
+     bottom: 150px;
+ }
+ .rond2{
+    position: absolute;
+     border: 2px solid yellow;
+     border-radius: 50px;
+     width: 50px;
+     height: 50px;
+     background-color: yellow;
+     top: 1.2px;
+     left: 1.6px;
+ }
+ input{
+     
+      height: 60px;
+      /*width: 330px;*/
+      background-color: red;
+      font-size: 20px;
+      color: white;
+      border-color: red;
+  }
